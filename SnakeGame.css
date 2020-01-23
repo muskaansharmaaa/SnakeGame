@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(221, 245, 167);
+}
+#heading{
+     color:rgb(81, 94, 7);
+}
+#main{
+    
+     
+     background-color: rgb(111, 122, 6);
+     height:600px;
+     width:600px;
+     position: relative;
+     border:solid 6px rgb(0, 0, 0);
+
+}
+#snake{
+    background-color:#f00ed2;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    z-index: 100;
+}
+#food{
+   background-color: rgb(204, 235, 30);
+   height: 30px;
+   width:30px;
+   position: absolute;
+}
+    #score{
+    
+      background-color: black;
+      height:40px;
+      width:615px;
+      font-size: 30px;
+      text-align:center;
+      color:chartreuse;
+      margin:0;
+
+    }
+
+ #b1{
+
+   background-color:rgb(250, 7, 217);
+   height:40px;
+   width: 615px;
+   font-size:30px;
+   text-align: center;
+   color:rgb(27, 2, 11);
+   margin:0;
+
+ }   
